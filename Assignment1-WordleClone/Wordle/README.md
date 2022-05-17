@@ -1,6 +1,6 @@
 # The Wordle Clone
 
-The end product of this assignment was to be a a piece of software simulating the puzzle-game Wordle.<br>
+The end product of this assignment was to be a piece of software simulating the puzzle-game Wordle.<br>
 The core logic of the game is present, but the UI in this version does nothing significant.<br>
 Here are the rules of this version of the game that were given to the students:
 1. The game will only allow us to play against the word "FAVOR". However, we will design it to be extended for other words to guess.
