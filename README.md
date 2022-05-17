@@ -1,6 +1,6 @@
 # Software Design (Spring 2022)
 
-This repo is dedicated to the work that was done in Venkat Subramaniam's Software Design course at the University of Houston.<br>
+This repo is dedicated to the work that was done in Venkat Subramaniam's Software Design course at the University of Houston. Each assignment had a development time of two (2) weeks and utilized a Jenkins build server with Gradle.<br>
 <br>
 The focus of the course was to practice design techniques such as:
 + Test-driven development
